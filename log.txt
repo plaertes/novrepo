@@ -1,0 +1,11 @@
+commit d8c8ecdc0027ad4c43a3edfe310d06afd4265770 (HEAD -> logging, origin/master, master)
+Author: Leart Pajaziti <leo-leart@hotmail.com>
+Date:   Fri Apr 27 12:52:51 2018 +0200
+
+    modify l1.txt
+
+commit f45067f07a54f3ed51c0358e2aef70e90c1e8e51
+Author: Leart Pajaziti <leo-leart@hotmail.com>
+Date:   Fri Apr 27 12:50:50 2018 +0200
+
+    Initial commit
