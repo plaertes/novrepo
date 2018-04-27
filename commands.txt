@@ -1,0 +1,25 @@
+git config --global user.name "Leart Pajaziti"
+git config --global user.email leo-leart@hotmail.com
+dir
+cd lab1
+git init
+git status
+git add l1.txt
+git commit -m "Initial commit"
+git add l1.txt
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/plaertes/novrepo.git
+git push -u origin master
+git checkout -- l1.txt
+git branch logging 
+git checkout logging
+touch log.txt
+git add log.txt
+git commit -m "added log.txt"
+git push -u origin logging
+git checkout master
+git merge logging
+git push -u origin master
+git branch allcomands
+git checkout allcomands
+touch commands.txt
